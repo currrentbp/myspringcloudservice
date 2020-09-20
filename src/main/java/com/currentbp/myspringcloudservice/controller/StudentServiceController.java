@@ -1,6 +1,7 @@
 package com.currentbp.myspringcloudservice.controller;
 
-import com.currentbp.myspringcloudapi.modul.Student;
+
+import com.currentbp.common.model.Student;
 import com.currentbp.myspringcloudservice.service.StudentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
