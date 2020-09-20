@@ -1,6 +1,8 @@
 package com.currentbp.myspringcloudservice.service;
 
-import com.currentbp.myspringcloudapi.modul.Student;
+
+
+import com.currentbp.common.model.Student;
 
 import java.util.List;
 

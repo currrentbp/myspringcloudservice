@@ -1,6 +1,7 @@
 package com.currentbp.myspringcloudservice.service.impl;
 
-import com.currentbp.myspringcloudapi.modul.Student;
+
+import com.currentbp.common.model.Student;
 import com.currentbp.myspringcloudservice.service.StudentService;
 import org.springframework.stereotype.Service;
 
